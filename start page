@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Cats start page</title>
+      <script src = "http://cats-website.freetzi.com/Cats-website/Cats-website.js"></script>
+	<style>
+	
+	</style>
+</head>
+<body>
+
+
+<h1>
+<img src = "https://topdom.org/wp-content/uploads/2018/02/kak-da-dadem-hapche-tabletka-na-kotka-lesno-800x360.jpg" />
+<h1>
+<a href = "http://cats-website.freetzi.com/Cats-website/Cats_website">Към сайта</a>
+</h1>
+<h7>
+<a href = "http://cats-website.freetzi.com/Cats-website/Cats_login">Запиши се</a>
+</h7>
+<h2> 
+<a  href = "http://cats-website.freetzi.com/Cats-website/Cats_start_page">Начална страница</a>
+</h2>
+<h3>
+<a href = "http://cats-website.freetzi.com/Cats-website/Cats_website">Сайт</a>
+</h3>
+<h4>
+<a onclick = "alert('В момента се разработва')" href = "file:///C:/Users/User/source/repos/%D0%9A%D0%BE%D1%82%D0%BA%D0%B8/%D0%9A%D0%BE%D1%82%D0%BA%D0%B8%20%D0%B7%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.html">За сайта</a>
+</h4>
+<h5>
+<a href = "http://cats-website.freetzi.com/Cats-website/Cats_login">Запиши се</a>
+</h5>
+</body>
+<link rel = "styleSheet" href = "http://cats-website.freetzi.com/Cats-website/Css%20start%20page" />
+
+
+
+</html>	
